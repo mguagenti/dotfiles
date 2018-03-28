@@ -1,0 +1,7 @@
+polybar 3.1.0-4
+siji-git r22.9d88311-1
+termsyn-font 1.8.7-1
+ttf-iosevka 1.14.1-1
+ttf-material-icons r124.224895a86-1
+ttf-unifont 10.0.07-1
+wal-git r264.a9ec79d-1
